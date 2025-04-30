@@ -1,0 +1,20 @@
+Link to GitHub Repository: https://github.com/a-will-of-causality/ITMGT45-AY2425-Sem2-Reqs
+___________________
+
+Certificate of Authorship (CoA) for Intro to HTML Lab.
+
+This CoA indicates that this work of Fons Benitez is substantially his own 
+and not copied from others.
+
+External sources referred to:
+• (MSYS 22: Intro to Programming II slide set on Frontend Dev.) https://drive.google.com/file/d/1qMSuiKKZg2dKVspQAC-skHc95wcbLiYY/view?usp=sharing
+• https://www.w3schools.com/TAGS/tag_title.asp
+• https://stackoverflow.com/questions/18990675/how-to-fix-a-footer-overlapping-content
+
+Images used:
+• Logo: https://pixabay.com/vectors/coffee-logo-design-coffee-cup-7057030/
+• Brewed Coffee: https://www.pickpik.com/filter-coffee-brew-brewing-close-up-coffee-coffee-brewing-50434
+• Cappuccino: https://shotstash.com/photo/cafe-coffee-time/
+• Dalgona: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst3.depositphotos.com%2F34890364%2F36498%2Fi%2F600%2Fdepositphotos_364980390-stock-photo-korean-whipped-coffee-dalgona.jpg&f=1&nofb=1&ipt=4ef97d1c43fdff5ab20eb9bf68e604842622f60823edbba529d64c5b7d752ce9
+• Espresso: https://pixabay.com/photos/coffee-drink-espresso-aromatic-cup-7917304/
+• Frappuccino: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Ffrappuccino-with-sauced-cream-in-takeaway-cup-picture-id500230728%3Fk%3D20%26m%3D500230728%26s%3D612x612%26w%3D0%26h%3DCxi4YJ13giJMunQjpJmHYgdMt7uGoVin_wlddjzyTDw%3D&f=1&nofb=1&ipt=28a06d8970695436bfbfee5b0ce28ae964a25807bfb82e1cce4664fcdd61eca5

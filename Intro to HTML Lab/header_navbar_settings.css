@@ -1,0 +1,36 @@
+.header_overall {
+    background-color:#FFFFFF;
+    color:#a52b2a;
+}
+
+.header_content {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    max-width: 60%;
+    margin-left: auto;
+}
+
+.header_img {
+    height: 100px;
+}
+
+.navbar {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    max-width: 62%;
+    margin-left: auto;
+}
+
+.navbar a {
+    padding: 0 20px;
+    background-color:#FFFFFF;
+}
+
+.footer_overall {
+    background-color:#FFFFFF;
+    color:#a52b2a;
+    padding-top: 15px;
+    position: relative;
+}
